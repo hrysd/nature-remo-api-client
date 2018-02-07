@@ -5,7 +5,7 @@
   "keywords": [
     "Nature Remo"
   ],
-  "homepage": "https://github.com/hrysd/nature-remo-api",
+  "homepage": "https://github.com/hrysd/nature-remo-api-client",
   "main": "lib/index.js",
   "file": [
     "lib"
@@ -18,7 +18,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hrysd/nature-remo-api.git"
+    "url": "https://github.com/hrysd/nature-remo-api-client.git"
   },
   "devDependencies": {
     "typescript": "^2.7.1"
