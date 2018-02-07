@@ -1,0 +1,29 @@
+{
+  "name": "nature-remo-api-client",
+  "version": "0.0.1",
+  "description": "Nature Remo API client for Javascript",
+  "keywords": [
+    "Nature Remo"
+  ],
+  "homepage": "https://github.com/hrysd/nature-remo-api",
+  "main": "lib/index.js",
+  "file": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hrysd",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrysd/nature-remo-api.git"
+  },
+  "devDependencies": {
+    "typescript": "^2.7.1"
+  },
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
