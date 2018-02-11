@@ -7,6 +7,7 @@
   ],
   "homepage": "https://github.com/hrysd/nature-remo-api-client",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "file": [
     "lib"
   ],
